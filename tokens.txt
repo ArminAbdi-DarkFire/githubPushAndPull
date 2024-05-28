@@ -1,0 +1,15 @@
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+git clone (url)
+
+git add (file names)
+git commit -m "(committed message)
+
+
+git remote set-url origin https://tokens@github.com/UserNameGitHub/project
+
+
+git push -u origin main 
+
+
